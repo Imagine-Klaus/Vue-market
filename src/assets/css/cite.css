@@ -1,0 +1,19 @@
+body{
+	background:white!important;
+}
+ #temp{
+    // margin-top:50px;
+    margin-bottom:50px;
+} 
+
+.padd{
+	padding:0 10px;
+}
+
+*{
+	padding: 0;
+	margin:0;
+}
+li {
+	list-style: none;
+}
